@@ -1,0 +1,5 @@
+mkdir programming-repo && cd programming-repo
+# create the folder structure and files (or paste files into an editor)
+git init
+git add .
+git commit -m "Initial commit: example programming repo with code + tests + CI"
