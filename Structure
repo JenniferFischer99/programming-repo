@@ -1,0 +1,19 @@
+1. src/app — application code
+2. tests — unit tests
+3. .github/workflows — CI pipeline (GitHub Actions)
+  pytest>=7.0
+  requests>=2.0
+4. pycache/
+    *.pyc
+    .venv/
+    .env
+    /dist
+    build/
+    *.egg-info
+MIT License
+
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge...
+[trimmed for brevity — replace with full MIT text when creating repo]
+
