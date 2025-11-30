@@ -1,6 +1,11 @@
 # Programming Repo
 
 Simple example repo containing Python code, tests, and CI.
+✔ Simple CLI program
+✔ Greets a user
+✔ Sums numbers
+✔ Includes tests
+✔ Includes CI pipeline
 
 ## Quick start
 
