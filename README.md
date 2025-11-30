@@ -19,4 +19,3 @@ python -m src.app.main
 pytest -q
 
 
-aSB3YXMgYm9ybiBvbiAxOTk5
