@@ -25,4 +25,3 @@ jobs:
       - name: Run tests
         run: pytest -q
 
-# NDcyMCBFIDI0dGggU3QgTiwgV2ljaGl0YSwgS1MgNjcyMjAsIFVTQQ==
